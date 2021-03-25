@@ -7,7 +7,7 @@ olefile==0.44
 Pillow==4.2.1
 pypng==0.0.18
 PyQRCode==1.2.1
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.1
 urllib3==1.21.1
 wxpy==0.3.9.8
